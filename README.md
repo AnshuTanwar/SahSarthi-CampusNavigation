@@ -1,64 +1,36 @@
-**SahSarthi - Campus Navigation**
-SahSarthi is a smart campus navigation system designed to help students, faculty, and visitors explore their college campus efficiently. With features like interactive maps, search functionality, and real-time assistance, it simplifies navigation across the campus.
+# 🗺️ SahSarthi - Campus Navigation
 
-**Features**
-Interactive campus maps for easy navigation.
-Search and locate classrooms, offices, and other facilities.
-Real-time updates and directions.
-Lightweight and user-friendly interface.
-Installation
-Clone the Repository
+![Node.js](https://img.shields.io/badge/Node.js-v20.x-green)
+![Express.js](https://img.shields.io/badge/Express.js-^4.x-blue)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-bash
-Copy code
+**SahSarthi** is a smart campus navigation system designed to simplify exploration for students, faculty, and visitors. With features like interactive maps, search functionality, and real-time assistance, navigating a campus has never been easier.
+
+---
+
+## 🚀 Features
+
+- 🗺️ **Interactive Maps**: Navigate your campus effortlessly.
+- 🔍 **Search and Locate**: Find classrooms, offices, or facilities in seconds.
+- 🕒 **Real-Time Assistance**: Stay updated with live directions and updates.
+- 🎯 **User-Friendly**: Lightweight, responsive, and intuitive design.
+
+---
+
+## 🛠️ Installation
+
+### **Step 1: Clone the Repository**
+```bash
 git clone https://github.com/AnshuTanwar/SahSarthi-CampusNavigation.git
 cd SahSarthi
-Install Dependencies - Ensure you have Node.js and npm installed, then run:
 
-bash
-Copy code
+### **Step 2: Install Dependencies**
+Ensure you have [Node.js](https://nodejs.org/) and npm installed on your system. Then, install the necessary dependencies by running:
+```bash
 npm install
-Run the Server Start the server with:
 
-bash
-Copy code
+### **Step 3: Run the Server**
+To start the SahSarthi application server, run the following command:
+```bash
 node server.js
-Access the Application Open your browser and navigate to:
 
-arduino
-Copy code
-http://localhost:3000
-Project Structure
-csharp
-Copy code
-SahSarthi/
-│
-├── server.js            # Server entry point
-├── package.json         # Node.js dependencies and scripts
-├── public/              # Static files (HTML, CSS, JS, images)
-├── routes/              # API routes
-├── views/               # View templates (if applicable)
-└── README.md            # Project documentation
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Map 3D Model : Blender
-Contributing
-Contributions are welcome! Follow these steps to contribute:
-
-Fork the repository.
-Create a new branch for your feature:
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes:
-bash
-Copy code
-git commit -m "Add feature"
-Push to your branch:
-bash
-Copy code
-git push origin feature-name
-Create a pull request.
-License : 
-This project is licensed under the MIT License. See the LICENSE file for details.
