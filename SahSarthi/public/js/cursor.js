@@ -7,7 +7,7 @@ circles.forEach(function (circle, index) {
   circle.x = 0;
   circle.y = 0;
   circle.style.backgroundColor = "black";
-});
+});    
 
 window.addEventListener("mousemove", function (e) {
   coords.x = e.clientX;
