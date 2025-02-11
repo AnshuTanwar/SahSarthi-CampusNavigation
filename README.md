@@ -70,7 +70,7 @@ Website
  ```
 4.Clone the repository:
  ```bash
-git clone https://github.com/Anshu/sahsarthi.git
+git clone https://github.com/AnshuTanwar/sahsarthi.git
  ```
 cd sahsarthi/website
 1.Open the index.html file in any browser or host it on a web server.
@@ -125,13 +125,13 @@ For questions, suggestions, or feedback, please reach out:
 
 Email:aanshutanwar07@gmail.com
 
-GitHub:Deepak0880
+GitHub:AnshuTanwar
 
 Acknowledgments:-
 
 Special thanks to all contributors and supporters of the Sahsarthi project.
 
-#Satwik mishra
+#Satwik Mishra
 
 #Nitin Singh
 
